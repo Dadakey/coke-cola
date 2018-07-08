@@ -1,0 +1,22 @@
+body { margin:0; padding:0px 0px 10px 0px; font-size:12px; font-family:"ËÎÌו"; background:url("../images/bg.gif") no-repeat center 40px; background-color:#8ee0fb;}
+ol,ul,li,dl,dt,dd,form{ margin:0; padding:0; list-style:none; }
+p{ margin:0px; padding:0px;}
+img { border:0;}
+h1,h2,h3,h4{ margin:0; padding:0px; line-height:normal; font-size:12px; font-weight:normal;}
+.clear{ clear:both; height:0px; margin:0px; padding:0px; width:0px; border:none; overflow:hidden; }
+
+a:link{ color:#333; text-decoration:none;}
+a:visited{ color:#333; text-decoration:none;}
+a:hover{ color:#333; text-decoration:underline;}
+a:active{ color:#333; text-decoration:none;}
+
+#top{ width:100%; height:40px;}
+
+#nav{ width:930px; height:100px; margin:0 auto;}
+#banner{ width:930px; height:360px; margin:0 auto; position:relative;}
+#heart{ position:absolute; left:11px; bottom:0; width:29px; height:9px; z-index:1;}
+#game_ph{ position:absolute; right:6px; bottom:0; width:264px; height:34px; z-index:1;}
+#cj{ position:absolute; width:228px; height:232px; left:8px; bottom:-33px; z-index:1;}
+#botton{ position:absolute; width:132px; height:164px; left:2px; top:0px; padding-top:8px;}
+#botton .help{ display:block; width:119px; height:24px; margin-bottom:10px; text-indent:-9999px; margin-left:6px;} 
+#botton .other{ display:block; width:119px; height:30px; margin-bottom:13px; text-indent:-9999px; margin-left:6px;}

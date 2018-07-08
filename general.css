@@ -1,0 +1,19 @@
+#banner{ background:url("../images/banner.PNG") no-repeat;}
+#botton{ background:url("../images/bottom_banner.png") no-repeat;}
+#foot{ background:url("../images/bg_foot.gif") no-repeat;}
+#kefu{ background:url("../images/bg_kefu.gif") no-repeat;}
+#djlp{ background:url("../images/bg_djlp.gif") no-repeat;}
+#news_list{ background:url("../images/bg_news_list.gif") no-repeat;}
+#goodgame{ background:url("../images/bg_goodgame.gif") no-repeat;}
+#phlist{ background:url("../images/bg_ph.gif") no-repeat;}
+#sgoodgame{ background:url("../images/bg_subgoodgame.GIF") no-repeat;}
+#active_list h1{ background:url("../images/bg_active_h1.GIF") no-repeat;}
+#lipin_list h1{ background:url("../images/bg_lipin_h1.GIF") no-repeat;}
+#daoju_list h1{ background:url("../images/bg_daoju_h1.GIF") no-repeat;}
+#qipai_list h1{ background:url("../images/bg_qipai_h1.GIF") no-repeat;}
+#huanle_list h1{ background:url("../images/bg_huanlechang_h1.GIF") no-repeat;}
+#help_list h1{ background:url("../images/bg_help_h1.GIF") no-repeat;}
+#newslist h1{ background:url("../images/bg_news_h1.GIF") no-repeat;}
+#gglist h1{ background:url("../images/bg_gg_h1.GIF") no-repeat;}
+#news_center ul li,#gg_center ul li{ background:url("../images/news.gif") 5px center no-repeat;}
+#active_center,#lipin_center,#daoju_center,#qipai_center,#huanle_center,#help_center,#news_center,#gg_center{ background:url("../images/bg_submain.gif") repeat-y;}
